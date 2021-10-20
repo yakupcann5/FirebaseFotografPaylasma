@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "644516955781",
+    "project_id": "fotografpaylasma-ca869",
+    "storage_bucket": "fotografpaylasma-ca869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644516955781:android:3ef3d0099f386cd3f38bec",
+        "android_client_info": {
+          "package_name": "com.example.firebasefotografpaylasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644516955781-uhdq8be0d9d4c74tfppnqtuiegogjrui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RubXiFx9FwN0dEldvOLifmXr_mhCxz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644516955781-uhdq8be0d9d4c74tfppnqtuiegogjrui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644516955781:android:862189118aa6f616f38bec",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasmafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644516955781-uhdq8be0d9d4c74tfppnqtuiegogjrui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RubXiFx9FwN0dEldvOLifmXr_mhCxz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644516955781-uhdq8be0d9d4c74tfppnqtuiegogjrui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
